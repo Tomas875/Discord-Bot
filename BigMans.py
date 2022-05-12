@@ -150,4 +150,4 @@ async def on_ready():
 
 
 #bot token
-client.run('ODM4NzI4ODI5ODc5MDU4NDUz.YI_VFw.YFibeOFFR8n-nGrQB8wI59bEoRk')
+client.run('token')
